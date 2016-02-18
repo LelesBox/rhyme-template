@@ -2,7 +2,7 @@
  * Created by blake on 12/31/15.
  */
 var rhyme = require('rhythm')
-var serve = require('koa-static')
+var serve = require('lb-koa-static')
 // logger
 rhyme.use(function *(next) {
   var start = new Date

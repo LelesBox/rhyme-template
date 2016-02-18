@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "koa-static": "git+https://github.com/LelesBox/static.git",
+    "lb-koa-static": "^2.1.0",
     "rhythm": "git+https://github.com/LelesBox/rhythm.git",
     "sails-mongo": "^0.12.0"
   }
